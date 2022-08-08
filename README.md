@@ -1,5 +1,11 @@
 # firebase_cloudfunctions_send_fcm
 
+https://engineering.monstar-lab.com/en/post/2021/02/09/Use-Firebase-Cloudfunctions-To-Send-Push-Notifications/
+
+https://www.youtube.com/watch?v=I0r10sk5fuI
+
+https://www.youtube.com/watch?v=jOJdlvMS6KA
+
 ```jsx
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
